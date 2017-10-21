@@ -1,9 +1,9 @@
-EtherCryptoCoin integration/staging tree
+EtherCryptoCoin integration
 ================================
 
-http://www.ethercryptocoin.org
+http://www.ethercryptocoin.com
 
-Copyright (c) 2009-2013 EtherCryptoCoin Developers
+Copyright (c) 2009-2020 EtherCryptoCoin Developers
 
 What is EtherCryptoCoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. EtherCryptoCoin is also the name of the open so
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the EtherCryptoCoin client software, see http://www.ethercryptocoin.org.
+the EtherCryptoCoin client software, see http://www.ethercryptocoin.com.
 
 License
 -------
